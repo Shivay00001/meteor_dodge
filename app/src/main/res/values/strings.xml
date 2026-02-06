@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meteor Dodge</string>
+    <string name="game_over">Game Over</string>
+    <string name="restart">Tap to Restart</string>
+    <string name="score_format">Score: %d</string>
+    <string name="high_score_format">High Score: %d</string>
+</resources>
