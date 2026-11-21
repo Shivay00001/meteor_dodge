@@ -1,5 +1,7 @@
 # Meteor Dodge
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Dodge falling meteors in this fast-paced Android arcade game.
 
 ![Language](https://img.shields.io/badge/Language-Kotlin-blue)
